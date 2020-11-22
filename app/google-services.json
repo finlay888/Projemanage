@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "407813547371",
+    "firebase_url": "https://projemanage-b4ec2.firebaseio.com",
+    "project_id": "projemanage-b4ec2",
+    "storage_bucket": "projemanage-b4ec2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:407813547371:android:d4711d01277c8aa5f4582e",
+        "android_client_info": {
+          "package_name": "uk.co.fyrefly.projemanage"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "407813547371-3c0ahc6s7psc95n6pgb3ogdukulg6roe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDYJ9pxweJg0eJrPhPOaJFP3M2okn0QwL8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "407813547371-3c0ahc6s7psc95n6pgb3ogdukulg6roe.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
