@@ -43,7 +43,7 @@ object Constants {
     const val FCM_BASE_URL:String = "https://fcm.googleapis.com/fcm/send"
     const val FCM_AUTHORIZATION:String = "authorization"
     const val FCM_KEY:String = "key"
-    const val FCM_SERVER_KEY:String = "AAAAXvOU5Ws:APA91bGW1Ut5CwFqiQa2WSBQ3ZMA9RojwAL__Rpv-INp_OQ0CbLowQqE1Yo0gZ8gX4yW_n69ItreLr8plrOrVnQpd15CMCvn8vG8l8qh7VZHIeL1KyOZQbwJfOgQNGQxTn4sGXF-4ijH"
+    const val FCM_SERVER_KEY:String = ""
     const val FCM_KEY_TITLE:String = "title"
     const val FCM_KEY_MESSAGE:String = "message"
     const val FCM_KEY_DATA:String = "data"
